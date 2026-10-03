@@ -1,4 +1,6 @@
-<p align="center"> <img src="starvixhub-github-io-404-Neon-City.png" alt="404 Neon City" width="100%"> </p>
+<p align="center">
+  <img src="starvixhub-github-io-404-Neon-City.png" alt="404 Neon City" width="100%">
+</p>
 
 # 404 Neon City
 
@@ -136,8 +138,8 @@ The project is a static HTML/CSS/JavaScript experience and can be deployed direc
 
 ## Live Demo
 
-- [🌐 GitHub Pages](https://starvixhub.github.io/404-Neon-City/)
-- [🎨 CodePen](https://codepen.io/editor/sinarezaei/pen/01a0dfa3-1b87-7c59-8ad8-9b40cfbcc611)
+* 🌐 **GitHub Pages:** https://starvixhub.github.io/404-Neon-City/
+* 🎨 **CodePen:** https://codepen.io/editor/sinarezaei/pen/01a0dfa3-1b87-7c59-8ad8-9b40cfbcc611
 
 ## License
 
@@ -148,5 +150,3 @@ This project is licensed under the MIT License.
 **StarvixHub**
 
 Part of the StarvixHub creative front-end project collection.
-
-```
