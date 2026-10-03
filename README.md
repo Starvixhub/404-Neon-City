@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="starvixhub-github-io-404-Neon-City.png" alt="404: The Lost Realm 404" width="100%">
-</p>
+<p align="center"> <img src="starvixhub-github-io-404-Neon-City.png" alt="404 Neon City" width="100%"> </p>
 
 # 404 Neon City
 
